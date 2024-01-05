@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flikk\\workspace\\Pathfinder project\\Pathfinder Character Sheets\\Pathfinder Character Sheets\\Pathfinder Character Sheets Server.csproj": {}
+    "C:\\Users\\flikk\\workspace\\Pathfinder project\\Pathfind-Console-App\\Pathfinder Character Sheets\\Pathfinder Character Sheets\\Pathfinder Character Sheets Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flikk\\workspace\\Pathfinder project\\Pathfinder Character Sheets\\Pathfinder Character Sheets\\Pathfinder Character Sheets Server.csproj": {
+    "C:\\Users\\flikk\\workspace\\Pathfinder project\\Pathfind-Console-App\\Pathfinder Character Sheets\\Pathfinder Character Sheets\\Pathfinder Character Sheets Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flikk\\workspace\\Pathfinder project\\Pathfinder Character Sheets\\Pathfinder Character Sheets\\Pathfinder Character Sheets Server.csproj",
+        "projectUniqueName": "C:\\Users\\flikk\\workspace\\Pathfinder project\\Pathfind-Console-App\\Pathfinder Character Sheets\\Pathfinder Character Sheets\\Pathfinder Character Sheets Server.csproj",
         "projectName": "Pathfinder Character Sheets Server",
-        "projectPath": "C:\\Users\\flikk\\workspace\\Pathfinder project\\Pathfinder Character Sheets\\Pathfinder Character Sheets\\Pathfinder Character Sheets Server.csproj",
+        "projectPath": "C:\\Users\\flikk\\workspace\\Pathfinder project\\Pathfind-Console-App\\Pathfinder Character Sheets\\Pathfinder Character Sheets\\Pathfinder Character Sheets Server.csproj",
         "packagesPath": "C:\\Users\\flikk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flikk\\workspace\\Pathfinder project\\Pathfinder Character Sheets\\Pathfinder Character Sheets\\obj\\",
+        "outputPath": "C:\\Users\\flikk\\workspace\\Pathfinder project\\Pathfind-Console-App\\Pathfinder Character Sheets\\Pathfinder Character Sheets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

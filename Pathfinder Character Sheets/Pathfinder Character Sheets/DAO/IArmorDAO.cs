@@ -11,6 +11,7 @@ namespace Pathfinder_Character_Sheets_Server.DAO
     {
         Armor FindArmorById(int id);
         List<Armor> GetAllArmors();
+        List<Armor> GetArmors(int characterId);
         Armor AddArmor (Armor armor);
         Armor UpdateArmor (Armor armor);
         Armor DeleteArmor (int id);

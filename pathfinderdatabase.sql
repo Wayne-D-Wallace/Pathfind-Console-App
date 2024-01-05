@@ -20,6 +20,7 @@ GO
 
 CREATE TABLE character_base(
 character_id INT IDENTITY(1,1)NOT NULL,
+character_name VARCHAR (200) NOT NULL,
 player_name VARCHAR (200) NOT NULL,
 character_backstory VARCHAR(MAX) NOT NULL,
 hit_points INT NOT NULL,
@@ -47,6 +48,7 @@ CONSTRAINT pk_skills PRIMARY KEY (skill_id)
 
 CREATE TABLE spells(
 spell_id INT IDENTITY(1,1) NOT NULL,
+spell_level INT NOT NULL,
 spell_type VARCHAR (200) NOT NULL,
 spell_name VARCHAR (200) NOT NULL,
 spell_description VARCHAR (MAX) NOT NULL,

@@ -1,0 +1,32 @@
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\Pathfinder Character Sheets Server.exe
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\Pathfinder Character Sheets Server.deps.json
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\Pathfinder Character Sheets Server.runtimeconfig.json
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\Pathfinder Character Sheets Server.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\Pathfinder Character Sheets Server.pdb
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\obj\Debug\net6.0\Pathfinder Character Sheets Server.csproj.AssemblyReference.cache
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\obj\Debug\net6.0\Pathfinder Character Sheets Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\obj\Debug\net6.0\Pathfinder Character Sheets Server.AssemblyInfoInputs.cache
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\obj\Debug\net6.0\Pathfinder Character Sheets Server.AssemblyInfo.cs
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\obj\Debug\net6.0\Pathfinder Character Sheets Server.csproj.CoreCompileInputs.cache
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\obj\Debug\net6.0\Pathfinder Character Sheets Server.sourcelink.json
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\obj\Debug\net6.0\Pathfinder Character Sheets Server.csproj.CopyComplete
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\obj\Debug\net6.0\Pathfinder Character Sheets Server.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\obj\Debug\net6.0\refint\Pathfinder Character Sheets Server.dll
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\obj\Debug\net6.0\Pathfinder Character Sheets Server.pdb
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\obj\Debug\net6.0\Pathfinder Character Sheets Server.genruntimeconfig.cache
+C:\Users\flikk\workspace\Pathfinder project\Pathfind-Console-App\Pathfinder Character Sheets\Pathfinder Character Sheets\obj\Debug\net6.0\ref\Pathfinder Character Sheets Server.dll

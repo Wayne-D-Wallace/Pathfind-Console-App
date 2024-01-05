@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R9ziawY0O+ueX3wMy3Bb7/MkVrqdTafOWZunvjumXzyQYEIuRPZq0Tz69mFrKB84ARRgT1yhpmOR7dTxHUDKKA==",
+  "dgSpecHash": "t4K7RmbB2NIrJfKKQK1aOBeE/3MZAIxMAglFM/3E4WvrOQ1Li53lJRKLQsfWLnf8ERP9kTDiVIHuniePGjcnqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\flikk\\workspace\\Pathfinder project\\Pathfinder Character Sheets\\Pathfinder Character Sheets\\Pathfinder Character Sheets Server.csproj",
+  "projectFilePath": "C:\\Users\\flikk\\workspace\\Pathfinder project\\Pathfind-Console-App\\Pathfinder Character Sheets\\Pathfinder Character Sheets\\Pathfinder Character Sheets Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\flikk\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.20\\microsoft.aspnetcore.authentication.jwtbearer.6.0.20.nupkg.sha512",
     "C:\\Users\\flikk\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

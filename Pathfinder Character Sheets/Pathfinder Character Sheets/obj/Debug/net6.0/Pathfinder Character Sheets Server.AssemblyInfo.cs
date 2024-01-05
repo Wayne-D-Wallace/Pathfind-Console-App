@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pathfinder Character Sheets Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecbdba06ef61c925b63230bdba94ad683302be09")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pathfinder Character Sheets Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pathfinder Character Sheets Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

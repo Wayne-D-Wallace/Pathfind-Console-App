@@ -12,6 +12,9 @@ namespace Pathfinder_Character_Sheets_Server.DAO
         Skills GetSkillsById (int id);
         List <Skills> GetSkillsByCharacterId (int characterId);
         List<Skills> GetAllSkills();
+        Skills AddSkill (Skills skill);
+        Skills UpdateSkill (Skills skill);  
+        Skills DeleteSkillById (int id);
 
     }
 }
